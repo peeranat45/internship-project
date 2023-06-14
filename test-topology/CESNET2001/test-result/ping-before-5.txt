@@ -1,0 +1,25 @@
+PING h21(h21 (fd00:0:21::2)) 56 data bytes
+64 bytes from h21 (fd00:0:21::2): icmp_seq=1 ttl=60 time=2.74 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=2 ttl=60 time=0.422 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=3 ttl=60 time=0.429 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=4 ttl=60 time=0.431 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=5 ttl=60 time=0.494 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=6 ttl=60 time=0.249 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=7 ttl=60 time=0.403 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=8 ttl=60 time=0.390 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=9 ttl=60 time=0.399 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=10 ttl=60 time=0.364 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=11 ttl=60 time=0.311 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=12 ttl=60 time=0.243 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=13 ttl=60 time=0.213 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=14 ttl=60 time=0.285 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=15 ttl=60 time=0.262 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=16 ttl=60 time=0.347 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=17 ttl=60 time=0.254 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=18 ttl=60 time=0.366 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=19 ttl=60 time=0.313 ms
+64 bytes from h21 (fd00:0:21::2): icmp_seq=20 ttl=60 time=0.303 ms
+
+--- h21 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19431ms
+rtt min/avg/max/mdev = 0.213/0.461/2.744/0.529 ms

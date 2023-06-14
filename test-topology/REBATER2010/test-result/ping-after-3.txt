@@ -1,0 +1,25 @@
+PING h151(h151 (fd00:0:151::2)) 56 data bytes
+64 bytes from h151 (fd00:0:151::2): icmp_seq=1 ttl=60 time=0.242 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=2 ttl=60 time=0.265 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=3 ttl=60 time=0.261 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=4 ttl=60 time=0.250 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=5 ttl=60 time=0.364 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=6 ttl=60 time=0.234 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=7 ttl=60 time=0.389 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=8 ttl=60 time=0.210 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=9 ttl=60 time=0.380 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=10 ttl=60 time=0.404 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=11 ttl=60 time=0.384 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=12 ttl=60 time=0.404 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=13 ttl=60 time=0.335 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=14 ttl=60 time=0.346 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=15 ttl=60 time=0.406 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=16 ttl=60 time=0.326 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=17 ttl=60 time=0.198 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=18 ttl=60 time=0.391 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=19 ttl=60 time=0.398 ms
+64 bytes from h151 (fd00:0:151::2): icmp_seq=20 ttl=60 time=0.392 ms
+
+--- h151 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19458ms
+rtt min/avg/max/mdev = 0.198/0.328/0.406/0.076 ms

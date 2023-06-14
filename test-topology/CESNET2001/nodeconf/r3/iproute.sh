@@ -1,0 +1,1 @@
+ip -6 route add fcff:3::100 encap seg6local action End.DT6 table main dev r3-r4

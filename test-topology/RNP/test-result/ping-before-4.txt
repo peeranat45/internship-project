@@ -1,0 +1,25 @@
+PING h284(h284 (fd00:0:284::2)) 56 data bytes
+64 bytes from h284 (fd00:0:284::2): icmp_seq=1 ttl=61 time=0.424 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=2 ttl=61 time=0.484 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=3 ttl=61 time=0.435 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=4 ttl=61 time=0.444 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=5 ttl=61 time=0.495 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=6 ttl=61 time=0.299 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=7 ttl=61 time=0.274 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=8 ttl=61 time=0.395 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=9 ttl=61 time=0.431 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=10 ttl=61 time=0.431 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=11 ttl=61 time=0.368 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=12 ttl=61 time=0.469 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=13 ttl=61 time=0.440 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=14 ttl=61 time=0.427 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=15 ttl=61 time=0.434 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=16 ttl=61 time=0.467 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=17 ttl=61 time=0.412 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=18 ttl=61 time=0.407 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=19 ttl=61 time=0.421 ms
+64 bytes from h284 (fd00:0:284::2): icmp_seq=20 ttl=61 time=0.393 ms
+
+--- h284 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19440ms
+rtt min/avg/max/mdev = 0.274/0.417/0.495/0.056 ms
