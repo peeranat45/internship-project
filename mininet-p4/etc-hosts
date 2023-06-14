@@ -1,0 +1,11 @@
+# Mininet hosts
+
+# Routers
+fcff:1::1       r1
+fcff:2::1       r2
+fcff:3::1       r3
+fcff:4::1       r4
+
+# Hosts
+fd00:0:11::2    h11
+fd00:0:41::2    h41

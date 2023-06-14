@@ -1,0 +1,8 @@
+# ignore ALL .p4i files
+*.p4i 
+
+main.bwv2/
+log/
+
+topology.json
+
